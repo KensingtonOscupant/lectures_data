@@ -1,0 +1,1548 @@
+[{
+    "id": "1005886",
+    "externalId": 214418,
+    "qGuideId": 0,
+    "title": "Intellectual property law",
+    "subject": "law",
+    "subjectDescription": "Law",
+    "catalogNumber": "246",
+    "level": "Graduate",
+    "academicGroup": "FU Berlin",
+    "semester": "Fall 2022",
+    "academicYear": 2022,
+    "classSection": "001",
+    "component": "Seminar",
+    "description": "<p>This course provides an overview of the legal principles and practices surrounding the protection of intellectual property, including trademarks, copyrights, patents, and trade secrets. Students will learn about the legal rights and remedies available to creators and owners of intellectual property, as well as the limitations and exceptions to those rights. The course will also explore the intersection of intellectual property law with other areas of law such as contract law, competition law and technology law. Additionally, the course will cover the enforcement of intellectual property rights, including litigation, arbitration and alternative dispute resolution. Throughout the course, students will engage in case studies, problem-solving exercises, and discussions to develop a comprehensive understanding of this complex and evolving area of law..</p>",
+    "instructors": [
+      {
+        "name": "Felix Ringe",
+        "email": "felix.ringe@fu-berlin.de"
+      }
+    ],
+    "meetingPatterns": [
+      {
+        "startTime": "12:00",
+        "endTime": "13:59",
+        "startDate": "2022-09-03",
+        "endDate": "2022-12-03",
+        "meetsOnMonday": false,
+        "meetsOnTuesday": false,
+        "meetsOnWednesday": false,
+        "meetsOnThursday": true,
+        "meetsOnFriday": false,
+        "meetsOnSaturday": false,
+        "meetsOnSunday": false
+      }
+    ]
+  },
+  {
+  "id": "1005887",
+  "externalId": 214419,
+  "qGuideId": 0,
+  "title": "Advanced Calculus",
+  "subject": "Mathematics",
+  "subjectDescription": "Mathematics",
+  "catalogNumber": "351",
+  "level": "Graduate",
+  "academicGroup": "FU Berlin",
+  "semester": "Fall 2022",
+  "academicYear": 2022,
+  "classSection": "001",
+  "component": "Lecture",
+  "description": "<p>This course delves into the advanced concepts of calculus, including multivariable calculus and integration techniques. Students will learn about vector analysis, partial derivatives, and multiple integrals, as well as applications in physics, engineering, and other fields. The course will also cover advanced topics such as Green's theorem, Stokes' theorem, and the Divergence theorem. Throughout the course, students will engage in problem-solving and proof-writing exercises to develop a deep understanding of the subject matter. This course is designed for students with a strong background in calculus and linear algebra.</p>",
+  "instructors": [
+  {
+  "name": "Johannes Müller",
+  "email": "johannes.muller@fu-berlin.de"
+  }
+  ],
+  "meetingPatterns": [
+  {
+  "startTime": "10:00",
+  "endTime": "11:59",
+  "startDate": "2022-09-03",
+  "endDate": "2022-12-03",
+  "meetsOnMonday": true,
+  "meetsOnTuesday": false,
+  "meetsOnWednesday": false,
+  "meetsOnThursday": false,
+  "meetsOnFriday": false,
+  "meetsOnSaturday": false,
+  "meetsOnSunday": false
+  }
+  ]
+  },
+  
+  {
+  "id": "1005888",
+  "externalId": 214420,
+  "qGuideId": 0,
+  "title": "Classical Mechanics",
+  "subject": "Physics",
+  "subjectDescription": "Physics",
+  "catalogNumber": "435",
+  "level": "Graduate",
+  "academicGroup": "FU Berlin",
+  "semester": "Fall 2022",
+  "academicYear": 2022,
+  "classSection": "001",
+  "component": "Seminar",
+  "description": "<p>This course provides an in-depth examination of the principles of classical mechanics, including Newton's laws of motion, conservation laws, and central force problems. Students will learn about the dynamics of rigid bodies, Lagrangian and Hamiltonian formalisms, and small oscillations. The course will also cover advanced topics such as chaos and non-linear dynamics. Throughout the course, students will engage in problem-solving and theoretical exercises to develop a deep understanding of the subject matter. This course is designed for students with a strong background in physics and mathematics.</p>",
+  "instructors": [
+  {
+  "name": "Hans Schmidt",
+  "email": "hans.schmidt@fu-berlin.de"
+  }
+  ],
+  "meetingPatterns": [
+  {
+  "startTime": "14:00",
+  "endTime": "15:59",
+  "startDate": "2022-09-03",
+  "endDate": "2022-12-03",
+  "meetsOnMonday": false,
+  "meetsOnTuesday": true,
+  "meetsOnWednesday": false,
+  "meetsOnThursday": false,
+  "meetsOnFriday": false,
+  "meetsOnSaturday": false,
+  "meetsOnSunday": false
+  }
+  ]
+  },
+  
+  {
+  "id": "1005889",
+  "externalId": 214421,
+  "qGuideId": 0,
+  "title": "Literary Analysis",
+  "subject": "Literature",
+  "subjectDescription": "Literature",
+  "catalogNumber": "221",
+  "level": "Graduate",
+  "academicGroup": "FU Berlin",
+  "semester": "Fall 2022",
+  "academicYear": 2022,
+  "classSection": "001",
+  "component": "Seminar",
+  "description": "<p>This course offers an in-depth examination of literary analysis, focusing on various literary genres and techniques. Students will learn how to interpret texts through various critical approaches such as feminist, psychoanalytic, and Marxist theory. The course will also cover advanced topics such as postcolonialism, queer theory, and postmodernism. Throughout the course, students will engage in close readings of texts, discussions, and written analysis to develop their literary analysis skills. This course is designed for students with a strong background in literature and literary theory.</p>",
+  "instructors": [
+  {
+  "name": "Katharina Schmidt",
+  "email": "katharina.schmidt@fu-berlin.de"
+  }
+  ],
+  "meetingPatterns": [
+  {
+  "startTime": "16:00",
+  "endTime": "17:59",
+  "startDate": "2022-09-03",
+  "endDate": "2022-12-03",
+  "meetsOnMonday": false,
+  "meetsOnTuesday": false,
+  "meetsOnWednesday": true,
+  "meetsOnThursday": false,
+  "meetsOnFriday": false,
+  "meetsOnSaturday": false,
+  "meetsOnSunday": false
+  }
+  ]
+  }
+  ,
+  {
+  "id": "1005890",
+  "externalId": 214422,
+  "qGuideId": 0,
+  "title": "Quantum Mechanics",
+  "subject": "Physics",
+  "subjectDescription": "Physics",
+  "catalogNumber": "440",
+  "level": "Graduate",
+  "academicGroup": "TU Berlin",
+  "semester": "Fall 2022",
+  "academicYear": 2022,
+  "classSection": "001",
+  "component": "Lecture",
+  "description": "<p>This course provides an in-depth examination of the principles of quantum mechanics, including wave-particle duality, quantization of energy, and the Schrödinger equation. Students will learn about the wave function, operators, and eigenvalues, as well as applications in physics and chemistry. The course will also cover advanced topics such as quantum field theory, quantum computing, and quantum information. Throughout the course, students will engage in problem-solving and theoretical exercises to develop a deep understanding of the subject matter. This course is designed for students with a strong background in physics and mathematics.</p>",
+  "instructors": [
+  {
+  "name": "Lena Bauer",
+  "email": "lena.bauer@tu-berlin.de"
+  }
+  ],
+  "meetingPatterns": [
+  {
+  "startTime": "9:00",
+  "endTime": "11:00",
+  "startDate": "2022-09-03",
+  "endDate": "2022-12-03",
+  "meetsOnMonday": true,
+  "meetsOnTuesday": false,
+  "meetsOnWednesday": false,
+  "meetsOnThursday": false,
+  "meetsOnFriday": false,
+  "meetsOnSaturday": false,
+  "meetsOnSunday": false
+  }
+  ]
+  },
+  
+  {
+  "id": "1005891",
+  "externalId": 214423,
+  "qGuideId": 0,
+  "title": "Linear Algebra",
+  "subject": "Mathematics",
+  "subjectDescription": "Mathematics",
+  "catalogNumber": "350",
+  "level": "Graduate",
+  "academicGroup": "TU Berlin",
+  "semester": "Fall 2022",
+  "academicYear": 2022,
+  "classSection": "001",
+  "component": "Seminar",
+  "description": "<p>This course delves into the advanced concepts of linear algebra, including vector spaces, linear transformations, eigenvalues, and eigenvectors. Students will learn about inner product spaces, orthogonality, and diagonalization, as well as applications in engineering, physics, and other fields. The course will also cover advanced topics such as Jordan form and spectral theory. Throughout the course, students will engage in problem-solving and proof-writing exercises to develop a deep understanding of the subject matter. This course is designed for students with a strong background in linear algebra and abstract algebra.</p>",
+  "instructors": [
+  {
+  "name": "Sabine Hoffmann",
+  "email": "sabine.hoffmann@tu-berlin.de"
+  }
+  ],
+  "meetingPatterns": [
+  {
+  "startTime": "14:00",
+  "endTime": "16:00",
+  "startDate": "2022-09-03",
+  "endDate": "2022-12-03",
+  "meetsOnMonday": false,
+  "meetsOnTuesday": true,
+  "meetsOnWednesday": false,
+  "meetsOnThursday": false,
+  "meetsOnFriday": false,
+  "meetsOnSaturday": false,
+  "meetsOnSunday": false
+  }
+  ]
+  },
+  
+  {
+  "id": "1005892",
+  "externalId": 214424,
+  "qGuideId": 0,
+  "title": "International Law",
+  "subject": "Law",
+  "subjectDescription": "Law",
+  "catalogNumber": "250",
+  "level": "Graduate",
+  "academicGroup": "HU Berlin",
+  "semester": "Fall 2022",
+  "academicYear": 2022,
+  "classSection": "001",
+  "component": "Seminar",
+  "description": "<p>This course offers an in-depth examination of the principles of international law, including the law of nations, international human rights law, and international criminal law. Students will learn about the sources of international law, the role of international organizations, and the jurisdiction of international courts and tribunals. The course will also cover advanced topics such as the law of armed conflict, the law of the sea, and international economic law. Throughout the course, students will engage in case studies, problem-solving exercises, and discussions to develop a comprehensive understanding of this complex and evolving area of law.</p>",
+  "instructors": [
+  {
+  "name": "Julia Schmidt",
+  "email": "julia.schmidt@hu-berlin.de"
+  }
+  ],
+  "meetingPatterns": [
+  {
+  "startTime": "10:00",
+  "endTime": "12:00",
+  "startDate": "2022-09-03",
+  "endDate": "2022-12-03",
+  "meetsOnMonday": false,
+  "meetsOnTuesday": false,
+  "meetsOnWednesday": true,
+  "meetsOnThursday": false,
+  "meetsOnFriday": false,
+  "meetsOnSaturday": false,
+  "meetsOnSunday": false
+  }
+  ]
+  },
+  
+  {
+  "id": "1005893",
+  "externalId": 214425,
+  "qGuideId": 0,
+  "title": "Romantic Literature",
+  "subject": "Literature",
+  "subjectDescription": "Literature",
+  "catalogNumber": "222",
+  "level": "Graduate",
+  "academicGroup": "HU Berlin",
+  "semester": "Fall 2022",
+  "academicYear": 2022,
+  "classSection": "001",
+  "component": "Seminar",
+  "description": "<p>This course offers an in-depth examination of romantic literature, focusing on the works of major romantic poets and novelists in the late 18th and early 19th centuries. Students will learn about the major literary movements and themes of the romantic period, such as the sublime, the picturesque, and the relationship between nature and human emotion. The course will also cover the historical and cultural contexts of the romantic period, including the French Revolution and the Industrial Revolution. Throughout the course, students will engage in close readings of texts, discussions, and written analysis to develop their understanding of the romantic literary tradition. This course is designed for students with a strong background in literature and literary history.</p>",
+  "instructors": [
+  {
+  "name": "Konrad Schmidt",
+  "email": "konrad.schmidt@hu-berlin.de"
+  }
+  ],
+  "meetingPatterns": [
+  {
+  "startTime": "15:00",
+  "endTime": "17:00",
+  "startDate": "2022-09-03",
+  "endDate": "2022-12-03",
+  "meetsOnMonday": false,
+  "meetsOnTuesday": true,
+  "meetsOnWednesday": false,
+  "meetsOnThursday": false,
+  "meetsOnFriday": false,
+  "meetsOnSaturday": false,
+  "meetsOnSunday": false
+  }
+  ]
+  },
+  {
+  "id": "1005894",
+  "externalId": 214426,
+  "qGuideId": 0,
+  "title": "Artificial Intelligence",
+  "subject": "Computer Science",
+  "subjectDescription": "Computer Science",
+  "catalogNumber": "420",
+  "level": "Undergraduate",
+  "academicGroup": "TU Berlin",
+  "semester": "Fall 2022",
+  "academicYear": 2022,
+  "classSection": "001",
+  "component": "Lecture",
+  "description": "<p>This course provides an introduction to the principles and practices of artificial intelligence, including machine learning, deep learning, and natural language processing. Students will learn about the main approaches, algorithms, and techniques used in AI and gain practical experience with programming AI models. The course will also cover applications of AI in various fields such as computer vision, speech recognition, and robotics. Throughout the course, students will engage in practical assignments, programming projects, and discussions to develop a comprehensive understanding of the field. This course is designed for students with a background in computer science and mathematics.</p>",
+  "instructors": [
+  {
+  "name": "Maximilian Schmidt",
+  "email": "maximilian.schmidt@tu-berlin.de"
+  }
+  ],
+  "meetingPatterns": [
+  {
+  "startTime": "9:00",
+  "endTime": "11:00",
+  "startDate": "2022-09-03",
+  "endDate": "2022-12-03",
+  "meetsOnMonday": true,
+  "meetsOnTuesday": false,
+  "meetsOnWednesday": false,
+  "meetsOnThursday": false,
+  "meetsOnFriday": false,
+  "meetsOnSaturday": false,
+  "meetsOnSunday": false
+  }
+  ]
+  },
+  
+  {
+  "id": "1005895",
+  "externalId": 214427,
+  "qGuideId": 0,
+  "title": "Introduction to Philosophy",
+  "subject": "Philosophy",
+  "subjectDescription": "Philosophy",
+  "catalogNumber": "130",
+  "level": "Undergraduate",
+  "academicGroup": "HU Berlin",
+  "semester": "Fall 2022",
+  "academicYear": 2022,
+  "classSection": "001",
+  "component": "Seminar",
+  "description": "<p>This course offers an introduction to the main branches of philosophy, including metaphysics, epistemology, logic, ethics, and political philosophy. Students will learn about the key concepts, arguments, and figures in each branch, as well as the historical and cultural contexts in which they emerged. The course will also cover various philosophical methods, such as critical thinking and argumentation. Throughout the course, students will engage in discussions, written assignments, and independent research to develop their understanding of the field. This course is designed for students with an interest in philosophy and critical thinking.</p>",
+  "instructors": [
+  {
+  "name": "Julia Bauer",
+  "email": "julia.bauer@hu-berlin.de"
+  }
+  ],
+  "meetingPatterns": [
+  {
+  "startTime": "14:00",
+  "endTime": "16:00",
+  "startDate": "2022-09-03",
+  "endDate": "2022-12-03",
+  "meetsOnMonday": false,
+  "meetsOnTuesday": true,
+  "meetsOnWednesday": false,
+  "meetsOnThursday": false,
+  "meetsOnFriday": false,
+  "meetsOnSaturday": false,
+  "meetsOnSunday": false
+  }
+  ]
+  },
+  
+  {
+  "id": "1005896",
+  "externalId": 214428,
+  "qGuideId": 0,
+  "title": "Introduction to Microeconomics",
+  "subject": "Economics",
+  "subjectDescription": "Economics",
+  "catalogNumber": "210",
+  "level": "Undergraduate",
+  "academicGroup": "FU Berlin",
+  "semester": "Fall 2022",
+  "academicYear": 2022,
+  "classSection": "001",
+  "component": "Lecture",
+  "description": "<p>This course offers an introduction to the basic principles of microeconomics, including supply and demand, elasticity, consumer behavior, production and cost, market structures, and government intervention. Students will learn about the key concepts, models, and tools used in microeconomics, as well as the historical and cultural contexts in which they emerged. The course will also cover various real-world applications of microeconomics, such as labor markets, international trade, and environmental economics. Throughout the course, students will engage in problem-solving exercises, written assignments, and discussions to develop their understanding of the field. This course is designed for students with an interest in economics and business.</p>",
+  "instructors": [
+  {
+  "name": "Maximilian Bauer",
+  "email": "maximilian.bauer@fu-berlin.de"
+  }
+  ],
+  "meetingPatterns": [
+  {
+  "startTime": "9:00",
+  "endTime": "11:00",
+  "startDate": "2022-09-03",
+  "endDate": "2022-12-03",
+  "meetsOnMonday": true,
+  "meetsOnTuesday": false,
+  "meetsOnWednesday": false,
+  "meetsOnThursday": false,
+  "meetsOnFriday": false,
+  "meetsOnSaturday": false,
+  "meetsOnSunday": false
+  }
+  ]
+  },
+  
+  {
+  "id": "1005897",
+  "externalId": 214429,
+  "qGuideId": 0,
+  "title": "Introduction to American History",
+  "subject": "History",
+  "subjectDescription": "History",
+  "catalogNumber": "110",
+  "level": "Undergraduate",
+  "academicGroup": "FU Berlin",
+  "semester": "Fall 2022",
+  "academicYear": 2022,
+  "classSection": "001",
+  "component": "Seminar",
+  "description": "<p>This course offers an introduction to the main events and themes of American history, from the colonial period to the present day. Students will learn about the key figures, movements, and ideas that shaped American history, as well as the historical and cultural contexts in which they emerged. The course will also cover various themes such as the American Revolution, the Civil War, the Civil Rights Movement, and the Cold War. Throughout the course, students will engage in discussions, written assignments, and independent research to develop their understanding of American history. This course is designed for students with an interest in history, politics, and American culture.</p>",
+  "instructors": [
+  {
+  "name": "Konrad Bauer",
+  "email": "konrad.bauer@fu-berlin.de"
+  }
+  ],
+  "meetingPatterns": [
+  {
+  "startTime": "14:00",
+  "endTime": "16:00",
+  "startDate": "2022-09-03",
+  "endDate": "2022-12-03",
+  "meetsOnMonday": false,
+  "meetsOnTuesday": true,
+  "meetsOnWednesday": false,
+  "meetsOnThursday": false,
+  "meetsOnFriday": false,
+  "meetsOnSaturday": false,
+  "meetsOnSunday": false
+  }
+  ]
+  }
+  ,
+  {
+  "id": "1005898",
+  "externalId": 214430,
+  "qGuideId": 0,
+  "title": "Introduction to Quantum Mechanics",
+  "subject": "Physics",
+  "subjectDescription": "Physics",
+  "catalogNumber": "320",
+  "level": "Undergraduate",
+  "academicGroup": "TU Berlin",
+  "semester": "Fall 2022",
+  "academicYear": 2022,
+  "classSection": "001",
+  "component": "Lecture",
+  "description": "<p>This course provides an introduction to the principles and practices of quantum mechanics, including wave-particle duality, quantum states, measurement, and quantum entanglement. Students will learn about the main approaches, algorithms, and techniques used in quantum mechanics and gain practical experience with solving quantum mechanical problems. The course will also cover applications of quantum mechanics in various fields such as quantum computing, quantum cryptography, and quantum field theory. Throughout the course, students will engage in problem-solving exercises, programming projects, and discussions to develop a comprehensive understanding of the field. This course is designed for students with a background in physics and mathematics.</p>",
+  "instructors": [
+  {
+  "name": "Maximilian Schmidt",
+  "email": "maximilian.schmidt@tu-berlin.de"
+  }
+  ],
+  "meetingPatterns": [
+  {
+  "startTime": "10:00",
+  "endTime": "12:00",
+  "startDate": "2022-09-03",
+  "endDate": "2022-12-03",
+  "meetsOnMonday": true,
+  "meetsOnTuesday": false,
+  "meetsOnWednesday": false,
+  "meetsOnThursday": false,
+  "meetsOnFriday": false,
+  "meetsOnSaturday": false,
+  "meetsOnSunday": false
+  }
+  ]
+  },
+  
+  {
+  "id": "1005899",
+  "externalId": 214431,
+  "qGuideId": 0,
+  "title": "Introduction to Organic Chemistry",
+  "subject": "Chemistry",
+  "subjectDescription": "Chemistry",
+  "catalogNumber": "210",
+  "level": "Undergraduate",
+  "academicGroup": "HU Berlin",
+  "semester": "Fall 2022",
+  "academicYear": 2022,
+  "classSection": "001",
+  "component": "Lecture",
+  "description": "<p>This course offers an introduction to the main principles of organic chemistry, including the properties of organic compounds, chemical reactions, and mechanisms. Students will learn about the key concepts, models, and tools used in organic chemistry, as well as the historical and cultural contexts in which they emerged. The course will also cover various real-world applications of organic chemistry, such as the synthesis of drugs and the production of fuels. Throughout the course, students will engage in problem-solving exercises, written assignments, and laboratory work to develop their understanding of the field. This course is designed for students with an interest in chemistry, biology, and environmental science.</p>",
+  "instructors": [
+  {
+  "name": "Julia Bauer",
+  "email": "julia.bauer@hu-berlin.de"
+  }
+  ],
+  "meetingPatterns": [
+  {
+  "startTime": "9:00",
+  "endTime": "11:00",
+  "startDate": "2022-09-03",
+  "endDate": "2022-12-03",
+  "meetsOnMonday": true,
+  "meetsOnTuesday": false,
+  "meetsOnWednesday": false,
+  "meetsOnThursday": false,
+  "meetsOnFriday": false,
+  "meetsOnSaturday": false,
+  "meetsOnSunday": false
+  }
+  ]
+  },
+  
+  {
+  "id": "1005900",
+  "externalId": 214432,
+  "qGuideId": 0,
+  "title": "Introduction to International Relations",
+  "subject": "Political Science",
+  "subjectDescription": "Political Science",
+  "catalogNumber": "310",
+  "level": "Undergraduate",
+  "academicGroup": "FU Berlin",
+  "semester": "Fall 2022",
+  "academicYear": 2022,
+  "classSection": "001",
+  "component": "Seminar",
+  "description": "<p>This course offers an introduction to the main theories, concepts, and issues in international relations, including realism, liberalism, constructivism, and globalization. Students will learn about the key figures, movements, and ideas that shaped the field of international relations as well as the historical and cultural contexts in which they emerged. The course will also cover various themes such as international security, international political economy, and international organizations. Throughout the course, students will engage in discussions, written assignments, and independent research to develop their understanding of international relations. This course is designed for students with an interest in history, politics, and global affairs.</p>",
+  "instructors": [
+  {
+  "name": "Konrad Bauer",
+  "email": "konrad.bauer@fu-berlin.de"
+  }
+  ],
+  "meetingPatterns": [
+  {
+  "startTime": "14:00",
+  "endTime": "16:00",
+  "startDate": "2022-09-03",
+  "endDate": "2022-12-03",
+  "meetsOnMonday": false,
+  "meetsOnTuesday": true,
+  "meetsOnWednesday": false,
+  "meetsOnThursday": false,
+  "meetsOnFriday": false,
+  "meetsOnSaturday": false,
+  "meetsOnSunday": false
+  }
+  ]
+  },
+  
+  {
+  "id": "1005901",
+  "externalId": 214433,
+  "qGuideId": 0,
+  "title": "Introduction to Environmental Science",
+  "subject": "Environmental Science",
+  "subjectDescription": "Environmental Science",
+  "catalogNumber": "120",
+  "level": "Undergraduate",
+  "academicGroup": "HU Berlin",
+  "semester": "Fall 2022",
+  "academicYear": 2022,
+  "classSection": "001",
+  "component": "Lecture",
+  "description": "<p>This course offers an introduction to the main principles of environmental science, including ecology, conservation, and sustainable development. Students will learn about the key concepts, models, and tools used in environmental science, as well as the historical and cultural contexts in which they emerged. The course will also cover various real-world applications of environmental science, such as the impacts of climate change, pollution, and land-use change on biodiversity and human well-being. Throughout the course, students will engage in problem-solving exercises, written assignments, field trips, and discussions to develop their understanding of the field. This course is designed for students with an interest in environmental issues and sustainability.</p>",
+  "instructors": [
+  {
+  "name": "Julia Bauer",
+  "email": "julia.bauer@hu-berlin.de"
+  }
+  ],
+  "meetingPatterns": [
+  {
+  "startTime": "9:00",
+  "endTime": "11:00",
+  "startDate": "2022-09-03",
+  "endDate": "2022-12-03",
+  "meetsOnMonday": true,
+  "meetsOnTuesday": false,
+  "meetsOnWednesday": false,
+  "meetsOnThursday": false,
+  "meetsOnFriday": false,
+  "meetsOnSaturday": false,
+  "meetsOnSunday": false
+  }
+  ]
+  },
+  
+  {
+  "id": "1005902",
+  "externalId": 214434,
+  "qGuideId": 0,
+  "title": "Introduction to Philosophy of Mind",
+  "subject": "Philosophy",
+  "subjectDescription": "Philosophy",
+  "catalogNumber": "310",
+  "level": "Undergraduate",
+  "academicGroup": "TU Berlin",
+  "semester": "Fall 2022",
+  "academicYear": 2022,
+  "classSection": "001",
+  "component": "Seminar",
+  "description": "<p>This course offers an introduction to the main theories, concepts, and issues in philosophy of mind, including the mind-body problem, the nature of consciousness, and the relationship between mind and brain. Students will learn about the key figures, movements, and ideas that shaped the field of philosophy of mind, as well as the historical and cultural contexts in which they emerged. The course will also cover various themes such as the relationship between mind and language, the problem of free will, and the implications of artificial intelligence. Throughout the course, students will engage in discussions, written assignments, and independent research to develop their understanding of philosophy of mind. This course is designed for students with an interest in philosophy, cognitive science, and artificial intelligence.</p>",
+  "instructors": [
+  {
+  "name": "Maximilian Schmidt",
+  "email": "maximilian.schmidt@tu-berlin.de"
+  }
+  ],
+  "meetingPatterns": [
+  {
+  "startTime": "14:00",
+  "endTime": "16:00",
+  "startDate": "2022-09-03",
+  "endDate": "2022-12-03",
+  "meetsOnMonday": false,
+  "meetsOnTuesday": true,
+  "meetsOnWednesday": false,
+  "meetsOnThursday": false,
+  "meetsOnFriday": false,
+  "meetsOnSaturday": false,
+  "meetsOnSunday": false
+  }
+  ]
+  },
+  {
+  "id": "1005903",
+  "externalId": 214435,
+  "qGuideId": 0,
+  "title": "Advanced Analysis",
+  "subject": "Mathematics",
+  "subjectDescription": "Mathematics",
+  "catalogNumber": "510",
+  "level": "Graduate",
+  "academicGroup": "TU Berlin",
+  "semester": "Fall 2022",
+  "academicYear": 2022,
+  "classSection": "001",
+  "component": "Seminar",
+  "description": "<p>This course covers advanced topics in analysis, including real and complex analysis, functional analysis, and measure theory. Students will learn about the key concepts, models, and tools used in analysis, as well as the historical and cultural contexts in which they emerged. The course will also cover various applications of analysis in other fields such as physics, engineering, and finance. Throughout the course, students will engage in problem-solving exercises, written assignments, and discussions to develop a comprehensive understanding of the field. This course is designed for students with a strong background in mathematics and a keen interest in analysis.</p>",
+  "instructors": [
+  {
+  "name": "Maximilian Schmidt",
+  "email": "maximilian.schmidt@tu-berlin.de"
+  }
+  ],
+  "meetingPatterns": [
+  {
+  "startTime": "10:00",
+  "endTime": "12:00",
+  "startDate": "2022-09-03",
+  "endDate": "2022-12-03",
+  "meetsOnMonday": true,
+  "meetsOnTuesday": false,
+  "meetsOnWednesday": false,
+  "meetsOnThursday": false,
+  "meetsOnFriday": false,
+  "meetsOnSaturday": false,
+  "meetsOnSunday": false
+  }
+  ]
+  },
+  
+  {
+  "id": "1005904",
+  "externalId": 214436,
+  "qGuideId": 0,
+  "title": "Introduction to Comparative Literature",
+  "subject": "Literature",
+  "subjectDescription": "Literature",
+  "catalogNumber": "210",
+  "level": "Undergraduate",
+  "academicGroup": "HU Berlin",
+  "semester": "Fall 2022",
+  "academicYear": 2022,
+  "classSection": "001",
+  "component": "Seminar",
+  "description": "<p>This course offers an introduction to the main principles of comparative literature, including the study of literature across cultures and languages. Students will learn about the key concepts, models, and tools used in comparative literature, as well as the historical and cultural contexts in which literature emerges. The course will also cover various themes such as literary translation, literary influence, and literary theory. Throughout the course, students will read and analyze literary texts from different cultures and time periods, engage in discussions, and write literary analysis papers to develop their understanding of comparative literature. This course is designed for students with an interest in literature, language, and cultural studies.</p>",
+  "instructors": [
+  {
+  "name": "Konrad Bauer",
+  "email": "konrad.bauer@hu-berlin.de"
+  }
+  ],
+  "meetingPatterns": [
+  {
+  "startTime": "14:00",
+  "endTime": "16:00",
+  "startDate": "2022-09-03",
+  "endDate": "2022-12-03",
+  "meetsOnMonday": false,
+  "meetsOnTuesday": true,
+  "meetsOnWednesday": false,
+  "meetsOnThursday": false,
+  "meetsOnFriday": false,
+  "meetsOnSaturday": false,
+  "meetsOnSunday": false
+  }
+  ]
+  },
+  
+  {
+  "id": "1005905",
+  "externalId": 214437,
+  "qGuideId": 0,
+  "title": "Introduction to Quantum Mechanics",
+  "subject": "Physics",
+  "subjectDescription": "Physics",
+  "catalogNumber": "310",
+  "level": "Undergraduate",
+  "academicGroup": "FU Berlin",
+  "semester": "Fall 2022",
+  "academicYear": 2022,
+  "classSection": "001",
+  "component": "Lecture",
+  "description": "<p>This course offers an introduction to the main principles of quantum mechanics, including wave-particle duality, quantization, and uncertainty principle. Students will learn about the key concepts, models, and tools used in quantum mechanics, as well as the historical and cultural contexts in which they emerged. The course will also cover various real-world applications of quantum mechanics, such as quantum computing and quantum cryptography. Throughout the course, students will engage in problem-solving exercises, written assignments, and laboratory work to develop their understanding of the field. This course is designed for students with an interest in physics and engineering.</p>",
+  "instructors": [
+  {
+  "name": "Felix Ringe",
+  "email": "felix.ringe@fu-berlin.de"
+  }
+  ],
+  "meetingPatterns": [
+  {
+  "startTime": "9:00",
+  "endTime": "11:00",
+  "startDate": "2022-09-03",
+  "endDate": "2022-12-03",
+  "meetsOnMonday": true,
+  "meetsOnTuesday": false,
+  "meetsOnWednesday": false,
+  "meetsOnThursday": false,
+  "meetsOnFriday": false,
+  "meetsOnSaturday": false,
+  "meetsOnSunday": false
+  }
+  ]
+  },
+  
+  {
+  "id": "1005906",
+  "externalId": 214438,
+  "qGuideId": 0,
+  "title": "Advanced Social Psychology",
+  "subject": "Psychology",
+  "subjectDescription": "Psychology",
+  "catalogNumber": "420",
+  "level": "Graduate",
+  "academicGroup": "FU Berlin",
+  "semester": "Fall 2022",
+  "academicYear": 2022,
+  "classSection": "001",
+  "component": "Seminar",
+  "description": "<p>This course covers advanced topics in social psychology, including social cognition, social influence, and social identity. Students will learn about the key concepts, models, and theories used in social psychology, as well as the historical and cultural contexts in which they emerged. The course will also cover various applications of social psychology in fields such as politics, marketing, and media. Throughout the course, students will engage in problem-solving exercises, written assignments, and discussions to develop a comprehensive understanding of the field. This course is designed for students with a strong background in psychology and a keen interest in social psychology.</p>",
+  "instructors": [
+  {
+  "name": "Konrad Bauer",
+  "email": "konrad.bauer@fu-berlin.de"
+  }
+  ],
+  "meetingPatterns": [
+  {
+  "startTime": "12:00",
+  "endTime": "14:00",
+  "startDate": "2022-09-03",
+  "endDate": "2022-12-03",
+  "meetsOnMonday": false,
+  "meetsOnTuesday": true,
+  "meetsOnWednesday": false,
+  "meetsOnThursday": false,
+  "meetsOnFriday": false,
+  "meetsOnSaturday": false,
+  "meetsOnSunday": false
+  }
+  ]
+  },
+  
+  {
+  "id": "1005907",
+  "externalId": 214439,
+  "qGuideId": 0,
+  "title": "Introduction to Geographical Information Systems",
+  "subject": "Geography",
+  "subjectDescription": "Geography",
+  "catalogNumber": "320",
+  "level": "Undergraduate",
+  "academicGroup": "TU Berlin",
+  "semester": "Fall 2022",
+  "academicYear": 2022,
+  "classSection": "001",
+  "component": "Lecture",
+  "description": "<p>This course offers an introduction to the main principles of geographical information systems (GIS), including data acquisition, data analysis, and data visualization. Students will learn about the key concepts, models, and tools used in GIS, as well as the historical and cultural contexts in which they emerged. The course will also cover various applications of GIS in fields such as urban planning, environmental management, and disaster response. Throughout the course, students will engage in problem-solving exercises, written assignments, and laboratory work to develop their understanding of the field. This course is designed for students with an interest in geography, environmental science, and computer science.</p>",
+  "instructors": [
+  {
+  "name": "Julia Bauer",
+  "email": "julia.bauer@tu-berlin.de"
+  }
+  ],
+  "meetingPatterns": [
+  {
+  "startTime": "9:00",
+  "endTime": "11:00",
+  "startDate": "2022-09-03",
+  "endDate": "2022-12-03",
+  "meetsOnMonday": true,
+  "meetsOnTuesday": false,
+  "meetsOnWednesday": false,
+  "meetsOnThursday": false,
+  "meetsOnFriday": false,
+  "meetsOnSaturday": false,
+  "meetsOnSunday": false
+  }
+  ]
+  },
+  
+  {
+  "id": "1005908",
+  "externalId": 214440,
+  "qGuideId": 0,
+  "title": "Advanced Organic Chemistry",
+  "subject": "Chemistry",
+  "subjectDescription": "Chemistry",
+  "catalogNumber": "420",
+  "level": "Graduate",
+  "academicGroup": "HU Berlin",
+  "semester": "Fall 2022",
+  "academicYear": 2022,
+  "classSection": "001",
+  "component": "Seminar",
+  "description": "<p>This course covers advanced topics in organic chemistry, including chemical reactions, chemical synthesis, and chemical bonding. Students will learn about the key concepts, models, and theories used in organic chemistry, as well as the historical and cultural contexts in which they emerged. The course will also cover various applications of organic chemistry in fields such as medicine, materials science, and biochemistry. Throughout the course, students will engage in problem-solving exercises, written assignments, and laboratory work to develop a comprehensive understanding of the field. This course is designed for students with a strong background in chemistry and a keen interest in organic chemistry.</p>",
+  "instructors": [
+  {
+  "name": "Maximilian Schmidt",
+  "email": "maximilian.schmidt@hu-berlin.de"
+  }
+  ],
+  "meetingPatterns": [
+  {
+  "startTime": "14:00",
+  "endTime": "16:00",
+  "startDate": "2022-09-03",
+  "endDate": "2022-12-03",
+  "meetsOnMonday": false,
+  "meetsOnTuesday": true,
+  "meetsOnWednesday": false,
+  "meetsOnThursday": false,
+  "meetsOnFriday": false,
+  "meetsOnSaturday": false,
+  "meetsOnSunday": false
+  }
+  ]
+  },
+  
+  {
+  "id": "1005909",
+  "externalId": 214441,
+  "qGuideId": 0,
+  "title": "Introduction to Mechanical Engineering",
+  "subject": "Engineering",
+  "subjectDescription": "Engineering",
+  "catalogNumber": "110",
+  "level": "Undergraduate",
+  "academicGroup": "TU Berlin",
+  "semester": "Fall 2022",
+  "academicYear": 2022,
+  "classSection": "001",
+  "component": "Lecture",
+  "description": "<p>This course offers an introduction to the main principles of mechanical engineering, including statics, dynamics, and mechanics of materials. Students will learn about the key concepts, models, and tools used in mechanical engineering, as well as the historical and cultural contexts in which they emerged. The course will also cover various applications of mechanical engineering in fields such as transportation, manufacturing, and energy. Throughout the course, students will engage in problem-solving exercises, written assignments, and laboratory work to develop their understanding of the field. This course is designed for students with an interest in engineering, physics, and mathematics.</p>",
+  "instructors": [
+  {
+  "name": "Julia Bauer",
+  "email": "julia.bauer@tu-berlin.de"
+  }
+  ],
+  "meetingPatterns": [
+  {
+  "startTime": "9:00",
+  "endTime": "11:00",
+  "startDate": "2022-09-03",
+  "endDate": "2022-12-03",
+  "meetsOnMonday": true,
+  "meetsOnTuesday": false,
+  "meetsOnWednesday": false,
+  "meetsOnThursday": false,
+  "meetsOnFriday": false,
+  "meetsOnSaturday": false,
+  "meetsOnSunday": false
+  }
+  ]
+  },
+  
+  {
+  "id": "1005910",
+  "externalId": 214442,
+  "qGuideId": 0,
+  "title": "Neuroscience of Learning and Memory",
+  "subject": "Psychology",
+  "subjectDescription": "Psychology",
+  "catalogNumber": "440",
+  "level": "Graduate",
+  "academicGroup": "HU Berlin",
+  "semester": "Fall 2022",
+  "academicYear": 2022,
+  "classSection": "001",
+  "component": "Seminar",
+  "description": "<p>This course covers the neuroscience of learning and memory, including the neural mechanisms and processes underlying these functions. Students will learn about the key concepts, models, and theories used in the field, as well as the historical and cultural contexts in which they emerged. The course will also cover various applications of the neuroscience of learning and memory in fields such as education, cognitive psychology, and neuroscience. Throughout the course, students will engage in problem-solving exercises, written assignments, and laboratory work to develop a comprehensive understanding of the field. This course is designed for students with a strong background in psychology and neuroscience.</p>",
+  "instructors": [
+  {
+  "name": "Maximilian Schmidt",
+  "email": "maximilian.schmidt@hu-berlin.de"
+  }
+  ],
+  "meetingPatterns": [
+  {
+  "startTime": "12:00",
+  "endTime": "14:00",
+  "startDate": "2022-09-03",
+  "endDate": "2022-12-03",
+  "meetsOnMonday": false,
+  "meetsOnTuesday": true,
+  "meetsOnWednesday": false,
+  "meetsOnThursday": false,
+  "meetsOnFriday": false,
+  "meetsOnSaturday": false,
+  "meetsOnSunday": false
+  }
+  ]
+  },
+  
+  {
+  "id": "1005911",
+  "externalId": 214443,
+  "qGuideId": 0,
+  "title": "Environmental Microbiology",
+  "subject": "Biology",
+  "subjectDescription": "Biology",
+  "catalogNumber": "320",
+  "level": "Undergraduate",
+  "academicGroup": "FU Berlin",
+  "semester": "Fall 2022",
+  "academicYear": 2022,
+  "classSection": "001",
+  "component": "Lecture",
+  "description": "<p>This course offers an introduction to the main principles of environmental microbiology, including the study of microorganisms and their interactions with the environment. Students will learn about the key concepts, models, and tools used in environmental microbiology, as well as the historical and cultural contexts in which they emerged. The course will also cover various applications of environmental microbiology in fields such as waste management, bioremediation, and climate change. Throughout the course, students will engage in problem-solving exercises, written assignments, and laboratory work to develop their understanding of the field. This course is designed for students with an interest in biology, environmental science, and microbiology.</p>",
+  "instructors": [
+  {
+  "name": "Felix Ringe",
+  "email": "felix.ringe@fu-berlin.de"
+  }
+  ],
+  "meetingPatterns": [
+  {
+  "startTime": "14:00",
+  "endTime": "16:00",
+  "startDate": "2022-09-03",
+  "endDate": "2022-12-03",
+  "meetsOnMonday": true,
+  "meetsOnTuesday": false,
+  "meetsOnWednesday": false,
+  "meetsOnThursday": false,
+  "meetsOnFriday": false,
+  "meetsOnSaturday": false,
+  "meetsOnSunday": false
+  }
+  ]
+  },
+  
+  
+  {
+  "id": "1005913",
+  "externalId": 214445,
+  "qGuideId": 0,
+  "title": "Geographical Information Systems",
+  "subject": "Geography",
+  "subjectDescription": "Geography",
+  "catalogNumber": "310",
+  "level": "Undergraduate",
+  "academicGroup": "FU Berlin",
+  "semester": "Fall 2022",
+  "academicYear": 2022,
+  "classSection": "001",
+  "component": "Lecture",
+  "description": "<p>This course offers an introduction to the main principles of Geographical Information Systems (GIS), including the use of digital mapping and spatial analysis to study geographical phenomena. Students will learn about the key concepts, models, and tools used in GIS, as well as the historical and cultural contexts in which they emerged. The course will also cover various applications of GIS in fields such as urban planning, environmental science, and disaster management. Throughout the course, students will engage in problem-solving exercises, written assignments, and laboratory work to develop their understanding of the field. This course is designed for students with an interest in geography, environmental science, and computer science.</p>",
+  "instructors": [
+  {
+  "name": "Julia Bauer",
+  "email": "julia.bauer@fu-berlin.de"
+  }
+  ],
+  "meetingPatterns": [
+  {
+  "startTime": "9:00",
+  "endTime": "11:00",
+  "startDate": "2022-09-03",
+  "endDate": "2022-12-03",
+  "meetsOnMonday": true,
+  "meetsOnTuesday": false,
+  "meetsOnWednesday": false,
+  "meetsOnThursday": false,
+  "meetsOnFriday": false,
+  "meetsOnSaturday": false,
+  "meetsOnSunday": false
+  }
+  ]
+  },
+  
+  {
+  "id": "1005914",
+  "externalId": 214446,
+  "qGuideId": 0,
+  "title": "Quantum Mechanics",
+  "subject": "Physics",
+  "subjectDescription": "Physics",
+  "catalogNumber": "510",
+  "level": "Graduate",
+  "academicGroup": "TU Berlin",
+  "semester": "Fall 2022",
+  "academicYear": 2022,
+  "classSection": "001",
+  "component": "Seminar",
+  "description": "<p>This course covers advanced topics in quantum mechanics, including wave-particle duality, quantum states, and quantum entanglement. Students will learn about the key concepts, models, and theories used in quantum mechanics, as well as the historical and cultural contexts in which they emerged. The course will also cover various applications of quantum mechanics in fields such as quantum computing, quantum cryptography, and quantum field theory. Throughout the course, students will engage in problem-solving exercises, written assignments, and laboratory work to develop a comprehensive understanding of the field. This course is designed for students with a strong background in physics and a keen interest in quantum mechanics.</p>",
+  "instructors": [
+  {
+  "name": "Maximilian Schmidt",
+  "email": "maximilian.schmidt@tu-berlin.de"
+  }
+  ],
+  "meetingPatterns": [
+  {
+  "startTime": "14:00",
+  "endTime": "16:00",
+  "startDate": "2022-09-03",
+  "endDate": "2022-12-03",
+  "meetsOnMonday": false,
+  "meetsOnTuesday": true,
+  "meetsOnWednesday": false,
+  "meetsOnThursday": false,
+  "meetsOnFriday": false,
+  "meetsOnSaturday": false,
+  "meetsOnSunday": false
+  }
+  ]
+  },
+  
+  {
+  "id": "1005915",
+  "externalId": 214447,
+  "qGuideId": 0,
+  "title": "Organic Chemistry",
+  "subject": "Chemistry",
+  "subjectDescription": "Chemistry",
+  "catalogNumber": "420",
+  "level": "Undergraduate",
+  "academicGroup": "HU Berlin",
+  "semester": "Fall 2022",
+  "academicYear": 2022,
+  "classSection": "001",
+  "component": "Lecture",
+  "description": "<p>This course offers an introduction to the main principles of organic chemistry, including the study of carbon compounds and their reactions. Students will learn about the key concepts, models, and tools used in organic chemistry, as well as the historical and cultural contexts in which they emerged. The course will also cover various applications of organic chemistry in fields such as medicine, materials science, and agriculture. Throughout the course, students will engage in problem-solving exercises, written assignments, and laboratory work to develop their understanding of the field. This course is designed for students with an interest in chemistry, biology, and material science.</p>",
+  "instructors": [
+  {
+  "name": "Konrad Bauer",
+  "email": "konrad.bauer@hu-berlin.de"
+  }
+  ],
+  "meetingPatterns": [
+  {
+  "startTime": "9:00",
+  "endTime": "11:00",
+  "startDate": "2022-09-03",
+  "endDate": "2022-12-03",
+  "meetsOnMonday": false,
+  "meetsOnTuesday": true,
+  "meetsOnWednesday": false,
+  "meetsOnThursday": false,
+  "meetsOnFriday": false,
+  "meetsOnSaturday": false,
+  "meetsOnSunday": false
+  }
+  ]
+  },
+  
+  {
+  "id": "1005917",
+  "externalId": 214449,
+  "qGuideId": 0,
+  "title": "Neuroscience",
+  "subject": "Psychology",
+  "subjectDescription": "Psychology",
+  "catalogNumber": "320",
+  "level": "Undergraduate",
+  "academicGroup": "HU Berlin",
+  "semester": "Fall 2022",
+  "academicYear": 2022,
+  "classSection": "001",
+  "component": "Lecture",
+  "description": "<p>This course offers an introduction to the main principles of neuroscience, including the study of the brain and its functions. Students will learn about the key concepts, models, and tools used in neuroscience, as well as the historical and cultural contexts in which they emerged. The course will also cover various applications of neuroscience in fields such as medicine, psychology, and artificial intelligence. Throughout the course, students will engage in problem-solving exercises, written assignments, and laboratory work to develop their understanding of the field. This course is designed for students with an interest in psychology, biology, and medicine.</p>",
+  "instructors": [
+  {
+  "name": "Maximilian Schmidt",
+  "email": "maximilian.schmidt@hu-berlin.de"
+  }
+  ],
+  "meetingPatterns": [
+  {
+  "startTime": "9:00",
+  "endTime": "11:00",
+  "startDate": "2022-09-03",
+  "endDate": "2022-12-03",
+  "meetsOnMonday": true,
+  "meetsOnTuesday": false,
+  "meetsOnWednesday": false,
+  "meetsOnThursday": false,
+  "meetsOnFriday": false,
+  "meetsOnSaturday": false,
+  "meetsOnSunday": false
+  }
+  ]
+  },
+  {
+  "id": "1005918",
+  "externalId": 214450,
+  "qGuideId": 0,
+  "title": "Environmental Economics",
+  "subject": "Economics",
+  "subjectDescription": "Economics",
+  "catalogNumber": "420",
+  "level": "Graduate",
+  "academicGroup": "FU Berlin",
+  "semester": "Fall 2022",
+  "academicYear": 2022,
+  "classSection": "001",
+  "component": "Seminar",
+  "description": "<p>This course covers advanced topics in environmental economics, including the study of the economic impact of environmental policies and regulations. Students will learn about the key concepts, models, and theories used in environmental economics, as well as the historical and cultural contexts in which they emerged. The course will also cover various applications of environmental economics in fields such as natural resource management, climate change, and sustainable development. Throughout the course, students will engage in problem-solving exercises, written assignments, and group projects to develop a comprehensive understanding of the field. This course is designed for students with a strong background in economics and a keen interest in environmental issues.</p>",
+  "instructors": [
+  {
+  "name": "Felix Ringe",
+  "email": "felix.ringe@fu-berlin.de"
+  }
+  ],
+  "meetingPatterns": [
+  {
+  "startTime": "14:00",
+  "endTime": "16:00",
+  "startDate": "2022-09-03",
+  "endDate": "2022-12-03",
+  "meetsOnMonday": false,
+  "meetsOnTuesday": false,
+  "meetsOnWednesday": true,
+  "meetsOnThursday": false,
+  "meetsOnFriday": false,
+  "meetsOnSaturday": false,
+  "meetsOnSunday": false
+  }
+  ]
+  },
+  
+  {
+  "id": "1005919",
+  "externalId": 214451,
+  "qGuideId": 0,
+  "title": "Artificial Intelligence",
+  "subject": "Computer Science",
+  "subjectDescription": "Computer Science",
+  "catalogNumber": "510",
+  "level": "Graduate",
+  "academicGroup": "TU Berlin",
+  "semester": "Fall 2022",
+  "academicYear": 2022,
+  "classSection": "001",
+  "component": "Seminar",
+  "description": "<p>This course covers advanced topics in artificial intelligence, including machine learning, natural language processing, and computer vision. Students will learn about the key concepts, models, and theories used in artificial intelligence, as well as the historical and cultural contexts in which they emerged. The course will also cover various applications of artificial intelligence in fields such as healthcare, finance, and transportation. Throughout the course, students will engage in problem-solving exercises, written assignments, and laboratory work to develop a comprehensive understanding of the field. This course is designed for students with a strong background in computer science and a keen interest in artificial intelligence.</p>",
+  "instructors": [
+  {
+  "name": "Julia Bauer",
+  "email": "julia.bauer@tu-berlin.de"
+  }
+  ],
+  "meetingPatterns": [
+  {
+  "startTime": "9:00",
+  "endTime": "11:00",
+  "startDate": "2022-09-03",
+  "endDate": "2022-12-03",
+  "meetsOnMonday": true,
+  "meetsOnTuesday": false,
+  "meetsOnWednesday": false,
+  "meetsOnThursday": false,
+  "meetsOnFriday": false,
+  "meetsOnSaturday": false,
+  "meetsOnSunday": false
+  }
+  ]
+  },
+  {
+  "id": "1005920",
+  "externalId": 214452,
+  "qGuideId": 0,
+  "title": "Geographic Information Systems",
+  "subject": "Geography",
+  "subjectDescription": "Geography",
+  "catalogNumber": "410",
+  "level": "Graduate",
+  "academicGroup": "HU Berlin",
+  "semester": "Fall 2022",
+  "academicYear": 2022,
+  "classSection": "001",
+  "component": "Seminar",
+  "description": "<p>This course covers advanced topics in Geographic Information Systems (GIS), including data management, spatial analysis, and cartography. Students will learn about the key concepts, models, and theories used in GIS, as well as the historical and cultural contexts in which they emerged. The course will also cover various applications of GIS in fields such as urban planning, natural resource management, and public health. Throughout the course, students will engage in problem-solving exercises, written assignments, and laboratory work to develop a comprehensive understanding of the field. This course is designed for students with a strong background in geography and a keen interest in GIS.</p>",
+  "instructors": [
+  {
+  "name": "Maximilian Schmidt",
+  "email": "maximilian.schmidt@hu-berlin.de"
+  }
+  ],
+  "meetingPatterns": [
+  {
+  "startTime": "14:00",
+  "endTime": "16:00",
+  "startDate": "2022-09-03",
+  "endDate": "2022-12-03",
+  "meetsOnMonday": false,
+  "meetsOnTuesday": true,
+  "meetsOnWednesday": false,
+  "meetsOnThursday": false,
+  "meetsOnFriday": false,
+  "meetsOnSaturday": false,
+  "meetsOnSunday": false
+  }
+  ]
+  },
+  {
+  "id": "1005921",
+  "externalId": 214453,
+  "qGuideId": 0,
+  "title": "Creative Writing",
+  "subject": "Literature",
+  "subjectDescription": "Literature",
+  "catalogNumber": "320",
+  "level": "Undergraduate",
+  "academicGroup": "FU Berlin",
+  "semester": "Fall 2022",
+  "academicYear": 2022,
+  "classSection": "001",
+  "component": "Seminar",
+  "description": "<p>This course offers an introduction to the art of creative writing, including fiction, poetry, and non-fiction. Students will learn about the key concepts, techniques, and tools used in creative writing, as well as the historical and cultural contexts in which they emerged. The course will also cover various applications of creative writing in fields such as journalism, advertising, and entertainment. Throughout the course, students will engage in problem-solving exercises, written assignments, and peer review to develop their understanding of the field. This course is designed for students with an interest in literature, language, and creative expression.</p>",
+  "instructors": [
+  {
+  "name": "Felix Ringe",
+  "email": "felix.ringe@fu-berlin.de"
+  }
+  ],
+  "meetingPatterns": [
+  {
+  "startTime": "9:00",
+  "endTime": "11:00",
+  "startDate": "2022-09-03",
+  "endDate": "2022-12-03",
+  "meetsOnMonday": false,
+  "meetsOnTuesday": false,
+  "meetsOnWednesday": true,
+  "meetsOnThursday": false,
+  "meetsOnFriday": false,
+  "meetsOnSaturday": false,
+  "meetsOnSunday": false
+  }
+  ]
+  },
+  {
+  "id": "1005922",
+  "externalId": 214454,
+  "qGuideId": 0,
+  "title": "Organic Chemistry",
+  "subject": "Chemistry",
+  "subjectDescription": "Chemistry",
+  "catalogNumber": "420",
+  "level": "Undergraduate",
+  "academicGroup": "TU Berlin",
+  "semester": "Fall 2022",
+  "academicYear": 2022,
+  "classSection": "001",
+  "component": "Lecture",
+  "description": "<p>This course offers an introduction to the principles of organic chemistry, including the study of carbon-based compounds and their reactions. Students will learn about the key concepts, models, and theories used in organic chemistry, as well as the historical and cultural contexts in which they emerged. The course will also cover various applications of organic chemistry in fields such as medicine, materials science, and environmental science. Throughout the course, students will engage in problem-solving exercises, written assignments, and laboratory work to develop their understanding of the field. This course is designed for students with an interest in chemistry, biology, and medicine.</p>",
+  "instructors": [
+  {
+  "name": "Julia Bauer",
+  "email": "julia.bauer@tu-berlin.de"
+  }
+  ],
+  "meetingPatterns": [
+  {
+  "startTime": "14:00",
+  "endTime": "16:00",
+  "startDate": "2022-09-03",
+  "endDate": "2022-12-03",
+  "meetsOnMonday": true,
+  "meetsOnTuesday": false,
+  "meetsOnWednesday": false,
+  "meetsOnThursday": false,
+  "meetsOnFriday": false,
+  "meetsOnSaturday": false,
+  "meetsOnSunday": false
+  }
+  ]
+  },
+  
+  {
+  "id": "1005923",
+  "externalId": 214455,
+  "qGuideId": 0,
+  "title": "Introduction to Art History",
+  "subject": "Art History",
+  "subjectDescription": "Art History",
+  "catalogNumber": "310",
+  "level": "Undergraduate",
+  "academicGroup": "FU Berlin",
+  "semester": "Fall 2022",
+  "academicYear": 2022,
+  "classSection": "001",
+  "component": "Lecture",
+  "description": "<p>This course offers an introduction to the history of art, including the study of painting, sculpture, architecture, and other forms of visual art from ancient times to the present day. Students will learn about the key concepts, movements, and artists that have shaped the history of art, as well as the historical and cultural contexts in which they emerged. The course will also cover various applications of art history in fields such as archaeology, anthropology, and cultural studies. Throughout the course, students will engage in problem-solving exercises, written assignments, and class discussions to develop their understanding of the field. This course is designed for students with an interest in art, history, and culture.</p>",
+  "instructors": [
+  {
+  "name": "Maximilian Schmidt",
+  "email": "maximilian.schmidt@fu-berlin.de"
+  }
+  ],
+  "meetingPatterns": [
+  {
+  "startTime": "9:00",
+  "endTime": "11:00",
+  "startDate": "2022-09-03",
+  "endDate": "2022-12-03",
+  "meetsOnMonday": true,
+  "meetsOnTuesday": false,
+  "meetsOnWednesday": false,
+  "meetsOnThursday": false,
+  "meetsOnFriday": false,
+  "meetsOnSaturday": false,
+  "meetsOnSunday": false
+  }
+  ]
+  },
+  {
+  "id": "1005924",
+  "externalId": 214456,
+  "qGuideId": 0,
+  "title": "Advanced Art History",
+  "subject": "Art History",
+  "subjectDescription": "Art History",
+  "catalogNumber": "620",
+  "level": "Graduate",
+  "academicGroup": "HU Berlin",
+  "semester": "Fall 2022",
+  "academicYear": 2022,
+  "classSection": "001",
+  "component": "Seminar",
+  "description": "<p>This course covers advanced topics in art history, including the study of specific movements, artists, or regions in depth. Students will learn about the key concepts, methodologies, and theories used in art history, as well as the historical and cultural contexts in which they emerged. The course will also cover various applications of art history in fields such as conservation, curation, and art criticism. Throughout the course, students will engage in problem-solving exercises, written assignments, and research projects to develop a comprehensive understanding of the field. This course is designed for students with a strong background in art history and a keen interest in advanced research.</p>",
+  "instructors": [
+  {
+  "name": "Julia Bauer",
+  "email": "julia.bauer@hu-berlin.de"
+  }
+  ],
+  "meetingPatterns": [
+  {
+  "startTime": "14:00",
+  "endTime": "16:00",
+  "startDate": "2022-09-03",
+  "endDate": "2022-12-03",
+  "meetsOnMonday": false,
+  "meetsOnTuesday": true,
+  "meetsOnWednesday": false,
+  "meetsOnThursday": false,
+  "meetsOnFriday": false,
+  "meetsOnSaturday": false,
+  "meetsOnSunday": false
+  }
+  ]
+  },
+  
+  {
+  "id": "1005925",
+  "externalId": 214457,
+  "qGuideId": 0,
+  "title": "African History",
+  "subject": "History",
+  "subjectDescription": "History",
+  "catalogNumber": "310",
+  "level": "Undergraduate",
+  "academicGroup": "TU Berlin",
+  "semester": "Fall 2022",
+  "academicYear": 2022,
+  "classSection": "001",
+  "component": "Lecture",
+  "description": "<p>This course offers an introduction to the history of Africa, including the study of different cultures, societies, and civilizations on the continent from ancient times to the present day. Students will learn about the key events, personalities and movements that have shaped the history of Africa, as well as the historical and cultural contexts in which they emerged. The course will also cover various applications of African history in fields such as anthropology, archaeology, and political science. Throughout the course, students will engage in problem-solving exercises, written assignments, and class discussions to develop their understanding of the field. This course is designed for students with an interest in history and African studies.</p>",
+  "instructors": [
+  {
+  "name": "Kofi Boateng",
+  "email": "kofi.boateng@tu-berlin.de"
+  }
+  ],
+  "meetingPatterns": [
+  {
+  "startTime": "9:00",
+  "endTime": "11:00",
+  "startDate": "2022-09-03",
+  "endDate": "2022-12-03",
+  "meetsOnMonday": true,
+  "meetsOnTuesday": false,
+  "meetsOnWednesday": false,
+  "meetsOnThursday": false,
+  "meetsOnFriday": false,
+  "meetsOnSaturday": false,
+  "meetsOnSunday": false
+  }
+  ]
+  },
+  {
+  "id": "1005926",
+  "externalId": 214458,
+  "qGuideId": 0,
+  "title": "African Literature",
+  "subject": "Literature",
+  "subjectDescription": "Literature",
+  "catalogNumber": "420",
+  "level": "Graduate",
+  "academicGroup": "FU Berlin",
+  "semester": "Fall 2022",
+  "academicYear": 2022,
+  "classSection": "001",
+  "component": "Seminar",
+  "description": "<p>This course covers advanced topics in African literature, including the study of specific authors, movements, or regions in depth. Students will learn about the key concepts, methodologies, and theories used in African literature, as well as the historical and cultural contexts in which they emerged. The course will also cover various applications of African literature in fields such as cultural studies, postcolonial studies, and linguistics. Throughout the course, students will engage in problem-solving exercises, written assignments, and research projects to develop a comprehensive understanding of the field. This course is designed for students with a strong background in literature and a keen interest in African studies.</p>",
+  "instructors": [
+  {
+  "name": "Ama Boakye",
+  "email": "ama.boakye@fu-berlin.de"
+  }
+  ],
+  "meetingPatterns": [
+  {
+  "startTime": "14:00",
+  "endTime": "16:00",
+  "startDate": "2022-09-03",
+  "endDate": "2022-12-03",
+  "meetsOnMonday": false,
+  "meetsOnTuesday": true,
+  "meetsOnWednesday": false,
+  "meetsOnThursday": false,
+  "meetsOnFriday": false,
+  "meetsOnSaturday": false,
+  "meetsOnSunday": false
+  }
+  ]
+  },
+  {
+  "id": "1005927",
+  "externalId": 214459,
+  "qGuideId": 0,
+  "title": "Computer Science",
+  "subject": "Computer Science",
+  "subjectDescription": "Computer Science",
+  "catalogNumber": "620",
+  "level": "Undergraduate",
+  "academicGroup": "HU Berlin",
+  "semester": "Fall 2022",
+  "academicYear": 2022,
+  "classSection": "001",
+  "component": "Lecture",
+  "description": "<p>This course offers an introduction to the principles of computer science, including the study of algorithms, data structures, programming languages, and software development. Students will learn about the key concepts, models, and theories used in computer science, as well as the historical and cultural contexts in which they emerged. The course will also cover various applications of computer science in fields such as artificial intelligence, machine learning, and cybersecurity. Throughout the course, students will engage in problem-solving exercises, written assignments, and laboratory work to develop their understanding of the field. This course is designed for students with an interest in computer science and technology.</p>",
+  "instructors": [
+  {
+  "name": "Kwame Agyei",
+  "email": "kwame.agyei@hu-berlin.de"
+  }
+  ],
+  "meetingPatterns": [
+  {
+  "startTime": "9:00",
+  "endTime": "11:00",
+  "startDate": "2022-09-03",
+  "endDate": "2022-12-03",
+  "meetsOnMonday": true,
+  "meetsOnTuesday": false,
+  "meetsOnWednesday": false,
+  "meetsOnThursday": false,
+  "meetsOnFriday": false,
+  "meetsOnSaturday": false,
+  "meetsOnSunday": false
+  }
+  ]
+  },
+  
+  {
+  "id": "1005928",
+  "externalId": 214460,
+  "qGuideId": 0,
+  "title": "Latin American Politics",
+  "subject": "Political Science",
+  "subjectDescription": "Political Science",
+  "catalogNumber": "310",
+  "level": "Undergraduate",
+  "academicGroup": "TU Berlin",
+  "semester": "Fall 2022",
+  "academicYear": 2022,
+  "classSection": "001",
+  "component": "Lecture",
+  "description": "<p>This course offers an introduction to the politics of Latin America, including the study of different political systems, ideologies, and actors on the continent from the colonial period to the present day. Students will learn about the key events, personalities and movements that have shaped the politics of Latin America, as well as the historical and cultural contexts in which they emerged. The course will also cover various applications of Latin American politics in fields such as international relations, comparative politics, and sociology. Throughout the course, students will engage in problem-solving exercises, written assignments, and class discussions to develop their understanding of the field. This course is designed for students with an interest in politics and Latin American studies.</p>",
+  "instructors": [
+  {
+  "name": "Carlos Rodriguez",
+  "email": "carlos.rodriguez@tu-berlin.de"
+  }
+  ],
+  "meetingPatterns": [
+  {
+  "startTime": "9:00",
+  "endTime": "11:00",
+  "startDate": "2022-09-03",
+  "endDate": "2022-12-03",
+  "meetsOnMonday": true,
+  "meetsOnTuesday": false,
+  "meetsOnWednesday": false,
+  "meetsOnThursday": false,
+  "meetsOnFriday": false,
+  "meetsOnSaturday": false,
+  "meetsOnSunday": false
+  }
+  ]
+  }]
