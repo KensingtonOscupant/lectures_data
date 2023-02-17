@@ -1,3 +1,3 @@
 # lectures_data
 
-<img src="https://imgur.com/a/rmG6MyD" />
+<div style="text-align: right"> - Kidd, Play and Aesthetics in Ancient Greece, 2019, p. 20. </div>
